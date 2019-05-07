@@ -2,8 +2,8 @@
 
 Middleware for using nameko services with Falcon
 
-> NOTE: it is still in development, there are debugprints and other rubbish
-> will be completed soon
+> NOTE: it is still in development, there are debugprints and other rubbish.
+> Will be completed soon
 
 # Usage
 
