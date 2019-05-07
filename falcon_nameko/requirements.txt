@@ -1,3 +1,0 @@
-nameko
-six
-falcon
